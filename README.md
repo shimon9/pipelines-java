@@ -32,3 +32,4 @@ or trademarks, whether by implication, estoppel or otherwise.
 
 
 Adding a test text line
+Adding a new line   
